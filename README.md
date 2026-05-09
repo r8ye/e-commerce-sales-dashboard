@@ -1,4 +1,4 @@
-# E-Commerce Sales Performance Dashboard in MS Excel
+# E-Commerce Sales Performance Dashboard in MS Excel 
 
 Sales Performance: Total revenue reached $90,202.43, which is a strong result. 2024 showed significantly higher revenue and profit compared to 2025.
 
