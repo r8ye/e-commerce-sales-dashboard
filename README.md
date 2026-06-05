@@ -1,13 +1,24 @@
-# E-Commerce Sales Performance Dashboard in MS Excel 
+# E-Commerce Sales & Profitability Dashboard
 
-Sales Performance: Total revenue reached $90,202.43, which is a strong result. 2024 showed significantly higher revenue and profit compared to 2025.
+### Project Overview
+Analyzed e-commerce sales data from 2024–2025 to evaluate business performance. The project encompassed data cleaning and preparation in Excel, followed by the development of an interactive dashboard in Power BI to track Year-over-Year (YoY) growth, profitability trends, and regional sales distribution.
 
-Quarterly Trends: Quarter 4 (Q4) is the peak period, generating the highest revenue and net profit.
+### Key Insights
+- Overall Performance: Revenue and total profit experienced a decline in 2025 compared to 2024.
 
-Profitability: While Electronics has the highest sales volume, it has a low profit margin. This means the category sells the most units but earns the least profit per item.
+- Margin Efficiency: Despite the revenue dip, profit margins improved by 1.3%, reaching 31.42% in 2025, indicating stronger operational efficiency.
 
-Regional Performance: The North region is the top profit contributor, while the West region is currently struggling.
+- Growth Trends: YoY revenue growth decreased by 8.08% in 2025, highlighting a need for volume-recovery strategies in Q1–Q3.
 
-Shipping Preferences: Standard Shipping takes up 56% of the shipping mode and is the most popular choice.
+- Seasonal Patterns: The business exhibits high seasonality; Q4 consistently represents the peak period for both revenue ($15K in 2025) and profit ($9K), while Q1 serves as the baseline for the lowest sales volume.
 
-Product Leaders: Webcams, Wireless Mice, and Smartwatches are the main source of revenue.
+- Product Performance Matrix: Identified key product segments by analyzing the correlation between sales volume and profit margins. High-margin, high-volume "star" products were isolated to prioritize inventory and marketing focus, while low-margin, low-volume items were flagged for review.
+
+### Technical Skills
+Data Cleaning: Conducted data profiling, normalization, and error remediation within Excel to ensure a robust "Star Schema" for analysis.
+
+Data Analysis: Performed time-intelligence calculations (YoY Growth, Same-Period-Last-Year) to derive actionable trends from raw sales data.
+
+Data Visualization: Designed a dynamic, multi-page dashboard featuring KPI cards, trend lines, and scatter matrices to facilitate executive-level decision-making.
+
+Technology: Excel, Power BI, DAX.
