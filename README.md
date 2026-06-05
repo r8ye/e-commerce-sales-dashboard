@@ -20,4 +20,5 @@ Data Cleaning: Conducted data profiling, normalization, and error remediation wi
 Data Analysis: Performed time-intelligence calculations (YoY Growth, Same-Period-Last-Year) to derive actionable trends from raw sales data.
 
 Data Visualization: Designed a dynamic, multi-page dashboard featuring KPI cards, trend lines, and scatter matrices to facilitate executive-level decision-making.
-Technology: Excel, Power BI, DAX.
+
+Technology: Excel, Power BI
